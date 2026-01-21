@@ -27,44 +27,7 @@ This application automates the process of creating corporate email accounts for 
 - **Mailbox Configuration**: Default 500MB mailbox capacity
 - **Account Information Display**: Shows complete employee account details
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-- Command line/terminal access
-
-### Installation
-
-1. Clone or download this repository
-2. Navigate to the project directory:
-```bash
-cd "Email Administration"
-```
-
-### Compilation
-
-Compile all Java files:
-```bash
-cd emailApp
-javac *.java
-```
-
-### Running the Application
-
-From the parent directory:
-```bash
-cd ..
-java emailApp.EmailApp
-```
-
-Or with a single command from the emailApp directory:
-```bash
-cd emailApp
-javac *.java && cd .. && java emailApp.EmailApp
-```
-
-## 💻 Usage
+##  Usage
 
 1. **Enter Employee Details**: 
    - First Name
